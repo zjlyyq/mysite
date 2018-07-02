@@ -108,8 +108,8 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 # 设置时区
-TIME_ZONE = 'UTC'
-
+# TIME_ZONE = 'UTC'
+TIME_ZONE='Asia/Shanghai'
 USE_I18N = True
 
 USE_L10N = True
